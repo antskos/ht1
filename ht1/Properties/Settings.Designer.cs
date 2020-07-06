@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ht1.Properties
+namespace MailSender.Properties
 {
 
 
